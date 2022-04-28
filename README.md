@@ -15,8 +15,8 @@ Api example using Nodejs with ExpressJs
 5. Enjoy it!
 
 ## ENDPOINTS
-The taks 1651106186363 is created by default
-1. Get all taks:GET to http://localhost:3000/api/v1/task/
+The task 1651106186363 is created by default
+1. Get all task:GET to http://localhost:3000/api/v1/task/
 2. Get task by id:GET to http://localhost:3000/api/v1/task/1651106186363
 3. Create task: POST http://localhost:3000/api/v1/task
 Body example:
